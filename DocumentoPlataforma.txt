@@ -1,0 +1,1 @@
+Antes de integrar mis cambios en el repositorio remoto, hago pull para no sobreescribir los archivos que están ahi
